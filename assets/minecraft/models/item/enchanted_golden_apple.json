@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:items/generated",
+  "textures": {
+    "layer0": "minecraft:items/enchanted_golden_apple"
+  }
+}
