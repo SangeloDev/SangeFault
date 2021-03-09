@@ -1,0 +1,1 @@
+Rename the file widgets-old.png to widgets.png to restore the old buttons.
