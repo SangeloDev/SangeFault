@@ -47,4 +47,4 @@ This is how you update my pack to the latest release. This pack is far from fini
 2. Type in `cd [path to your minecraft resourcepack folder*] && git pull`
 3. Start Minecraft and enjoy!
 
-#### *Follow the Easy Installation Instructions to find your directory path if you don't know where it is.
+#### *Follow the Easy Installation Instructions to find your directory if you don't know where it is.
