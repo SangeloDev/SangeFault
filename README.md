@@ -14,6 +14,7 @@ Instructions:
     - Type in `%appdata%` and click `Run`.
     - Go into your Minecraft folder (eg. `.minecraft`) and then into `resourcepacks`
     - Paste in the zip file which was **inside** the zip file you downloaded earlier.
+
    Mac:
     - Open a Finder window.
     - Press `⌘ + ⇧ + G`, type in `~/Library/Application\ Support/` and press enter.
