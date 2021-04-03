@@ -23,7 +23,7 @@ Instructions:
     - Paste in the zip file which was **inside** the zip you downloaded earilier.
     
    Linux:
-    - Go to the Minecraft path: /home/`username`/`minecraft path (eg. .minecraft)`
+    - Go to your Minecraft path: /home/`username`/`minecraft path (eg. .minecraft)`
     - Locate the `resourcepacks` folder and open it.
     - Paste in the zip file which was **inside** the zip you downloaded earilier.
 4. Start Minecraft and enjoy!
