@@ -2,7 +2,7 @@
 
 ## Installation Instructions
 Hello there! Thanks for trying out the world's first open-source Minecraft resourcepack first of all! I am very thankful for that :D.
-Now let's go on to the instructions:
+Now let's go on to the installation instructions:
 
 ### Easy Install
 ℹ️ Recommended for users who are scared of the command line.
