@@ -48,3 +48,4 @@ This is how you update my pack to the latest release. This pack is far from fini
 3. Start Minecraft and enjoy!
 
 #### *Follow the Easy Installation Instructions to find your directory if you don't know where it is.
+
