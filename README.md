@@ -1,7 +1,7 @@
 # SangeFault
 
 ## Installation Instructions
-Hello there! Thanks for trying out yet another open-source Minecraft resourcepack first of all! I am very thankful for that :D.
+Hello there! Thanks for trying out world's first complex open-source Minecraft resourcepack for 1.8.9 first of all! I am very thankful for that :D.
 Now let's go on to the installation instructions:
 
 ### Easy Install
