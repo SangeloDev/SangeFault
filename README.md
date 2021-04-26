@@ -20,12 +20,12 @@ Instructions:
     - Press `⌘ + ⇧ + G`, type in `~/Library/Application\ Support/` and press enter.
     - Locate your Minecraft folder (eg. `.minecraft`) and open it.
     - Locate the `resourcepacks` folder and open it.
-    - Paste in the zip file which was **inside** the zip you downloaded earilier.
+    - Paste in the zip file which was **inside** the zip you downloaded earlier.
     
    Linux:
     - Go to your Minecraft path: /home/`username`/`minecraft path (eg. .minecraft)`
     - Locate the `resourcepacks` folder and open it.
-    - Paste in the zip file which was **inside** the zip you downloaded earilier.
+    - Paste in the zip file which was **inside** the zip you downloaded earlier.
 4. Start Minecraft and enjoy!
     
 ### Hard Install
