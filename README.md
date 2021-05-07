@@ -47,4 +47,12 @@ This is how you update my pack to the latest release. This pack is far from fini
 2. Type in `cd [path to your minecraft resourcepack folder*] && git pull`
 3. Start Minecraft and enjoy!
 
+## Release naming system
+Since release 1.0.3, I am using a naming system for releases, since this pack is still WIP.
+I'll be naming:
+- Major releases (1.0, 1.1, etc.) as MR
+- Minor releases (1.0.1, 1.1.4, etc.) as mR
+- Patches (1.0.2.1, etc.) as PR
+(May be changed in the future)
+
 #### *Follow the Easy Installation Instructions to find your directory if you don't know where it is.
