@@ -4,7 +4,7 @@
 Hello there! Thanks for trying out world's first complex open-source Minecraft resourcepack for 1.8.9 first of all! I am very thankful for that :D.
 Now let's go on to the installation instructions:
 
-### Easy Install
+### Installation using your graphical interface
 ℹ️ Recommended for users who are scared of the command line.
 Instructions:
 1. Go to the releases tab or click [this link](https://github.com/SangeloDev/SangeFault/releases) and download the latest version.
@@ -28,27 +28,46 @@ Instructions:
     - Paste in the zip file which was **inside** the zip you downloaded earlier.
 4. Start Minecraft and enjoy!
     
-### Hard Install
-ℹ️ For the ones that would like to flex 😎.
-1. Open a Command Promt (Windows) or Terminal (Mac & Linux).
-2. Type in `cd [path to your minecraft resourcepack folder*]`
-3. Type `git clone https://github.com/SangeloDev/SangeFault`
-4. Start Minecraft and enjoy!
+### Command-line installation
+Windows:
+```bash
+# Open your minecraft resourcepack folder
+cd %appdata%/.minecraft/resourcepacks
+
+# Clone this repo into your resource packs folder.
+git clone https://github.com/SangeloDev/SangeFault
+```
+
+Mac:
+```bash
+# Open your minecraft resourcepack folder
+cd ~/Library/Application\ Support/.minecraft/resourcepacks
+
+# Clone this repo into your resource packs folder.
+git clone https://github.com/SangeloDev/SangeFault
+```
+
+Linux:
+```bash
+# Open your minecraft resourcepack folder
+cd ~/.minecraft/resourcepacks
+
+# Clone this repo into your resource packs folder.
+git clone https://github.com/SangeloDev/SangeFault
+```
 
 ## Update Instructions
 This is how you update my pack to the latest release. This pack is far from finished, y'know?
-### Easy Installation (Only do if you used the Easy Installation Method!)
+### Update using graphical interface
 1. Download the latest release
 2. Follow the installation instructions for your os.
 3. Start Minecraft and enjoy!
 
-### Hard Installation (Only possible with the Hard Installation Method!)
-1. Open a Command Prompt (Windows) or a Terminal (Mac & Linux)
-2. Type in `cd [path to your minecraft resourcepack folder*] && git pull`
-3. Start Minecraft and enjoy!
+### Update using command-line
+1. Go into your folder again (as explained) and run the command `git pull` instead of the `git clone` command.
 
-## Release naming system
-Since release 1.0.3, I am using a naming system for releases, since this pack is still WIP.
+## Versioning
+Since release 1.0.3, I am using a versioning system for releases, since this pack is still WIP.
 I'll be naming:
 - Major releases (1.0, 1.1, etc.) as MR
 - Minor releases (1.0.1, 1.1.4, etc.) as mR
