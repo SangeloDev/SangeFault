@@ -1,6 +1,6 @@
 # SangeFault
 
-![UC2Badge](https://img.shields.io/badge/UC%C2%B2-supported-%23FE7D37) ![LabymodBadge](https://img.shields.io/badge/LabyMod-supported-%23008FE8)
+[![UC2Badge](https://img.shields.io/badge/UC%C2%B2-supported-%23FE7D37)](https://uc.gamingcraft.de) [![LabymodBadge](https://img.shields.io/badge/LabyMod-supported-%23008FE8)](https://labymod.net)
 
 [![PMC](https://img.shields.io/badge/PlanetMinecraft-visit-%236EC310)](https://www.planetminecraft.com/texture-pack/sangefault-1-8-x-resource-pack/) [![Website](https://img.shields.io/badge/Addons-pick%20and%20choose-blue)](https://pack.sangelo.space)
 
