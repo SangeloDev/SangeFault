@@ -1,8 +1,8 @@
 # SangeFault
 
-![UC2Badge](https://img.shields.io/badge/UC%C2%B2-supported-%23FE7D37)![LabymodBadge](https://img.shields.io/badge/LabyMod-supported-%23008FE8)
+![UC2Badge](https://img.shields.io/badge/UC%C2%B2-supported-%23FE7D37) ![LabymodBadge](https://img.shields.io/badge/LabyMod-supported-%23008FE8)
 
-[![PMC](https://img.shields.io/badge/PlanetMinecraft-visit-%236EC310)](https://www.planetminecraft.com/texture-pack/sangefault-1-8-x-resource-pack/)[![Website](https://img.shields.io/badge/Addons-pick%20and%20choose-blue)](https://pack.sangelo.space)
+[![PMC](https://img.shields.io/badge/PlanetMinecraft-visit-%236EC310)](https://www.planetminecraft.com/texture-pack/sangefault-1-8-x-resource-pack/) [![Website](https://img.shields.io/badge/Addons-pick%20and%20choose-blue)](https://pack.sangelo.space)
 
 ## Installation Instructions
 Hello there! Thanks for trying out world's first complex open-source Minecraft resourcepack for 1.8.9 first of all! I am very thankful for that :D.
