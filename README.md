@@ -31,8 +31,8 @@ Instructions:
     - Locate the `resourcepacks` folder and open it.
     - Paste in the zip file which was **inside** the zip you downloaded earlier.
 4. Start Minecraft and enjoy!
-### Command-line installation
 
+### Command-line installation
 Prerequisites: [Git](https://git-scm.com/downloads)
 
 Windows:
@@ -75,8 +75,14 @@ This is how you update my pack to the latest release. This pack is far from fini
 ## Contribution
 Contribution is always welcome, since this is the point of the pack. You can create addons for the pack by editing the pack itself, and it will be reviewed and merged in the addons branch.
 
-## Credits
+## Versioning
+Since release 1.0.3, I am using a versioning system for releases, since this pack is still WIP.
+I'll be naming:
+- Major releases (1.0, 1.1, etc.) as MR
+- Minor releases (1.0.1, 1.1.4, etc.) as mR
+- Patches (1.0.1.1, 1.0.1.2, etc.) as pR
 
+## Credits
 Based on [SammyFault's 16x Pack](http://www.mediafire.com/file/vrojgs74merz18h/%2521_%25C2%25A72Sammyfault_%25C2%25A7a%255B16x%255D.zip/file)
 
 1.0.3 : Includes Wool from [Majesta's 16x Pack](https://www.mediafire.com/file/m2i4zdffmh4s95z/!++++++++%C2%A75%C2%A7lmajesta+%C2%A78[16x].zip/file)
