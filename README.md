@@ -4,7 +4,7 @@
 
 [![PMC](https://img.shields.io/badge/PlanetMinecraft-visit-%236EC310)](https://www.planetminecraft.com/texture-pack/sangefault-1-8-x-resource-pack/) [![Website](https://img.shields.io/badge/Coming%20Soon-pick%20and%20choose-blue)](https://pack.sangelo.space)
 
-ℹ️ If you're viewing this page from [Gitea](https://git.sangelo.space/Sangelo/SangeFault) and don't see any releases, please view them on [GitHub](https://github.com/SangeloDev/SangeFault/releases)
+ℹ️ If you're viewing this page from [Gitea](https://git.sangelo.space/Sangelo/SangeFault) and don't see any releases, please view them on [GitHub](https://github.com/SangeloDev/SangeFault/releases).
 
 ## Installation Instructions
 Hello there! Thanks for trying out world's first complex open-source Minecraft resourcepack for 1.8.9 first of all! I am very thankful for that :D.
