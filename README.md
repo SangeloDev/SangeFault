@@ -1,6 +1,6 @@
 # <img src="https://raw.githubusercontent.com/SangeloDev/SangeFault/1.8.9/pack.png" width="32"> SangeFault
 
-[![](https://img.shields.io/badge/UtilityClient-supported-%23aa4465?style=for-the-badge)](https://uc.gamingcraft.de) [![](https://img.shields.io/badge/LabyMod-supported-%23008FE8?style=for-the-badge)](https://labymod.net)
+[![](https://img.shields.io/badge/1.8.9-version-44c62e?style=for-the-badge)](https://minecraft.net)[![](https://img.shields.io/badge/UtilityClient-supported-%23aa4465?style=for-the-badge)](https://uc.gamingcraft.de) [![](https://img.shields.io/badge/LabyMod-supported-%23008FE8?style=for-the-badge)](https://labymod.net)
 [![](https://img.shields.io/badge/PlanetMinecraft-visit-%236EC310?style=for-the-badge)](https://www.planetminecraft.com/texture-pack/sangefault-1-8-x-resource-pack/) [![Pack Picker](https://img.shields.io/badge/Customize%20SangeFault-Soon-blue?style=for-the-badge)](https://pack.sangelo.space)
 
 ℹ️ If you're viewing this page from [Gitea](https://git.sangelo.space/Sangelo/SangeFault) and don't see any releases, please view them on [GitHub](https://github.com/SangeloDev/SangeFault/releases).
