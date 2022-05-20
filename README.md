@@ -1,4 +1,4 @@
-# SangeFault
+# SangeFault 1.18+ [WIP, currently unchanged]
 
 [![UC2Badge](https://img.shields.io/badge/UC%C2%B2-supported-%23FE7D37)](https://uc.gamingcraft.de) [![LabymodBadge](https://img.shields.io/badge/LabyMod-supported-%23008FE8)](https://labymod.net)
 
