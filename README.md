@@ -73,7 +73,7 @@ This is how you update SangeFault to the latest release. SangeFault is far from 
 3. Start Minecraft and enjoy!
 
 ### Update using command-line
-1. Go into your folder again (as explained above) and run the command `git pull` instead of the `git clone https://github.com/SangeloDev/SangeFault` command.
+1. Go into your folder again (as explained above) and run the command `cd SangeFault && git pull` instead of the `git clone https://github.com/SangeloDev/SangeFault` command.
 
 ## Contribution
 Contribution is always welcome, since this is the point of this project. You can create addons for SangeFault by editing the pack itself, and it will be reviewed and merged in the addons branch.
