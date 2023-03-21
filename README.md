@@ -86,6 +86,7 @@ I'll be naming:
 - Patches (1.0.1.1, 1.0.1.2, etc.) as pR
 
 ## Credits
+All textures newly created for SangeFault are licensed under the CC4.0 License. Read more [here](LICENSE)<br><br>
 Based on [SammyFault's 16x Pack](http://www.mediafire.com/file/vrojgs74merz18h/%2521_%25C2%25A72Sammyfault_%25C2%25A7a%255B16x%255D.zip/file)<br>
 1.0.3 : Includes Wool from [Majesta's 16x Pack](https://www.mediafire.com/file/m2i4zdffmh4s95z/!++++++++%C2%A75%C2%A7lmajesta+%C2%A78[16x].zip/file)
 
